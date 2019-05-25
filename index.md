@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## M HÜSREV CILASUN
 
-You can use the [editor on GitHub](https://github.com/husrev/husrev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Scholar](https://scholar.google.com.tr/citations?user=cwohcIUAAAAJ), [LinkedIn](https://www.linkedin.com/in/cilasun/) [ORCID](https://orcid.org/0000-0002-5421-1159) [ResearchGate](https://www.researchgate.net/profile/M_Huesrev_Cilasun)   [dblp](https://dblp.org/pers/hd/c/Cilasun:M=_Husrev)  [StackExchange](https://stackexchange.com/users/5344761/husrev?tab=accounts) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+Istanbul Technical University September 2012 - June 2016
+B.Sc. in Electronics & Communication Engineering
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Journal Papers
 
-```markdown
-Syntax highlighted code block
+Altun, M., Parvin, S., and Cılasun, M. H., “Exploiting Reversible Computing for Latent-Fault-Free
+Error Detecting/Correcting CMOS Circuits”, IEEE Access (2018)
+Cılasun, M.H. and Altun, M., “A Novel Reversible Fault Tolerant Microprocessor Design in ams
+0.35um Process” Istanbul University - Journal of Electrical & Electronics Engineering 17.1 (2017):
+3147-3154
+Cılasun, M.H. “Generalized Multiple Counting Jacobsthal Sequences of Fermat Pseudoprimes”, Journal of Integer Sequences 19.2 (2016):3.
 
-# Header 1
-## Header 2
-### Header 3
+### Conference Papers
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/husrev/husrev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Cılasun, M.H. and Kamisli, F., “Coding Gain Optimized 8-Point DST with Fast Algorithm for Intraframes in Video Coding”, 26th European Signal Processing Conference (EUSIPCO) , Rome, Italy, 2018.
+Cılasun, M.H. and Kamisli, F., “Fast DST Optimizations for Intra-frame Coding”, IEEE Signal
+Processing and Communications Applications Conference (SIU), 2018 26th, Izmir, 2018.
+Ercan, I., Susam, O., Altun, M., and Cılasun, M.H., “Synthesis and Fundamental Energy Analysis
+of Fault-Tolerant CMOS Circuits”, 14th International Conference on Synthesis, Modeling, Analysis
+and Simulation Methods and Applications to Circuit Design (SMACD), Giardini Naxos, Italy, 2017.
+Cılasun, M.H. and Yalçın, H., “A Deep Learning Approach to EEG based Epilepsy Seizure Determination”, IEEE Signal Processing and Communications Applications Conference (SIU), 2016 24th,
+Zonguldak, 2016.
+Yalçın, H. and Cılasun, M.H., “Deep Learning based Autonomous Direction Estimation”, IEEE
+Signal Processing and Communications Applications Conference (SIU), 2016 24th, Zonguldak, 2016.
