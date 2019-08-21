@@ -4,10 +4,10 @@
 
 ### Education
 
-University of Minnesota September 2019 - Current
+University of Minnesota (September 2019 - Current)
 Ph.D. in Electrical Engineering
 
-Istanbul Technical University September 2012 - June 2016
+Istanbul Technical University (September 2012 - June 2016)
 B.Sc. in Electronics & Communication Engineering
 
 ### Journal Papers
